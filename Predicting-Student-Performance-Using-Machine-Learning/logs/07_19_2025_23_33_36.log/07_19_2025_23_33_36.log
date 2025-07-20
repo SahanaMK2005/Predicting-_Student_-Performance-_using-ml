@@ -1,0 +1,9 @@
+[ 2025-07-19 23:33:36,569 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-07-19 23:33:36,574 ] 97 werkzeug - INFO -  * Debugger PIN: 432-817-582
+[ 2025-07-19 23:36:29,953 ] 97 werkzeug - INFO - 127.0.0.1 - - [19/Jul/2025 23:36:29] "GET / HTTP/1.1" 200 -
+[ 2025-07-19 23:36:29,954 ] 97 werkzeug - INFO - 127.0.0.1 - - [19/Jul/2025 23:36:29] "GET / HTTP/1.1" 200 -
+[ 2025-07-19 23:36:33,229 ] 97 werkzeug - INFO - 127.0.0.1 - - [19/Jul/2025 23:36:33] "GET /static/css/styles.css HTTP/1.1" 200 -
+[ 2025-07-19 23:36:33,232 ] 97 werkzeug - INFO - 127.0.0.1 - - [19/Jul/2025 23:36:33] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+[ 2025-07-19 23:36:54,563 ] 97 werkzeug - INFO - 127.0.0.1 - - [19/Jul/2025 23:36:54] "GET /predictdata HTTP/1.1" 200 -
+[ 2025-07-19 23:36:55,028 ] 97 werkzeug - INFO - 127.0.0.1 - - [19/Jul/2025 23:36:55] "GET /static/css/styles_home.css HTTP/1.1" 200 -
+[ 2025-07-19 23:37:49,399 ] 97 werkzeug - INFO -  * Detected change in 'C:\\Users\\Murli\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\sklearn\\base.py', reloading
